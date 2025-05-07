@@ -4,3 +4,5 @@ Crystal executor is my attempt at making an executor for executing/injecting Rob
 Crystal executor has been finished in its first and early version. You may install it now or watch a tutorial video.
 The tutorial video is work in progress sorry guys.
 Check example.png for a sneak peek.
+
+Credits to my good friend Adam for help with making the icon.
