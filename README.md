@@ -9,3 +9,7 @@ Credits to my good friend Adam for help with making the icon.
 
 WARNING: CRYSTAL EXECUTOR IS A BIT UNSTABLE. RESTART CRYSTAL AND/OR ROBLOX IF YOU FACE ISSUES.
 If you are asking why I'm not open sourcing/publishing the code online is because its not even stable it can crash and stuffs like that.
+
+If you want to exploit in general, please install Bloxstrap. Using the web can and probably will work for most executors,
+but Bloxstrap guarentee's you will execute it. To install Bloxstrap go to: https://bloxstrap.org/dl
+Enjoy!
